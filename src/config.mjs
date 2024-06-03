@@ -6,7 +6,7 @@ export const SITE = {
   description:
     "Qwind is a free and ready to start template to make your website using Qwik and Tailwind CSS.",
 
-  origin: "https://qwind.pages.dev",
+  origin: "https://qwindsample.pages.dev",
   basePathname: "/",
   trailingSlash: true,
 };

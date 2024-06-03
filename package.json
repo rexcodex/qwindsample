@@ -29,6 +29,8 @@
     "qwik": "qwik"
   },
   "dependencies": {
+    "@builder.io/dev-tools": "^1.0.12",
+    "@builder.io/sdk-qwik": "^0.14.22",
     "@fontsource-variable/inter": "^5.0.17",
     "@unpic/qwik": "^0.0.44",
     "gray-matter": "^4.0.3",
